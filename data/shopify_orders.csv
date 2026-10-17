@@ -1,1 +1,101 @@
-
+Order_ID,Order_Date,Customer_Name,Product_Name,Category,Quantity,Price,Total_Amount,Payment_Method,Order_Status,City
+ORD-1001,2024-09-01,Customer 1,Scented Candle,Home,2,1199,2398,Easypaisa,Delivered,Multan
+ORD-1002,2024-08-14,Customer 2,Phone Case,Electronics,1,1299,1299,Easypaisa,Cancelled,Faisalabad
+ORD-1003,2024-10-28,Customer 3,Backpack,Apparel,1,3499,3499,COD,Delivered,Faisalabad
+ORD-1004,2024-10-08,Customer 4,Sneakers,Footwear,3,4999,14997,JazzCash,Pending,Multan
+ORD-1005,2024-07-28,Customer 5,Wireless Earbuds,Electronics,2,2999,5998,Credit Card,Cancelled,Faisalabad
+ORD-1006,2024-07-29,Customer 6,Wireless Earbuds,Electronics,1,2999,2999,Easypaisa,Delivered,Faisalabad
+ORD-1007,2024-11-22,Customer 7,Coffee Mug,Home,3,899,2697,Credit Card,Delivered,Faisalabad
+ORD-1008,2024-08-03,Customer 8,Scented Candle,Home,2,1199,2398,COD,Delivered,Multan
+ORD-1009,2024-08-12,Customer 9,Yoga Mat,Sports,2,2499,4998,Easypaisa,Delivered,Faisalabad
+ORD-1010,2024-06-14,Customer 10,Wireless Earbuds,Electronics,2,2999,5998,Credit Card,Delivered,Karachi
+ORD-1011,2024-10-08,Customer 11,Mens T-Shirt,Apparel,2,1499,2998,JazzCash,Pending,Quetta
+ORD-1012,2024-06-08,Customer 12,Coffee Mug,Home,2,899,1798,Easypaisa,Delivered,Peshawar
+ORD-1013,2024-07-20,Customer 13,Wireless Earbuds,Electronics,2,2999,5998,JazzCash,Pending,Lahore
+ORD-1014,2024-07-24,Customer 14,Sneakers,Footwear,3,4999,14997,Credit Card,Pending,Peshawar
+ORD-1015,2024-07-14,Customer 15,Phone Case,Electronics,1,1299,1299,Credit Card,Delivered,Peshawar
+ORD-1016,2024-09-03,Customer 16,Coffee Mug,Home,3,899,2697,JazzCash,Pending,Karachi
+ORD-1017,2024-08-21,Customer 17,Sneakers,Footwear,2,4999,9998,Easypaisa,Cancelled,Lahore
+ORD-1018,2024-10-02,Customer 18,Wireless Earbuds,Electronics,2,2999,5998,COD,Delivered,Multan
+ORD-1019,2024-08-04,Customer 19,Scented Candle,Home,2,1199,2398,COD,Delivered,Karachi
+ORD-1020,2024-08-20,Customer 20,Coffee Mug,Home,1,899,899,JazzCash,Delivered,Islamabad
+ORD-1021,2024-06-05,Customer 21,Wireless Earbuds,Electronics,1,2999,2999,Credit Card,Delivered,Karachi
+ORD-1022,2024-08-11,Customer 22,Coffee Mug,Home,1,899,899,JazzCash,Delivered,Karachi
+ORD-1023,2024-07-07,Customer 23,Backpack,Apparel,3,3499,10497,Easypaisa,Pending,Peshawar
+ORD-1024,2024-09-09,Customer 24,Yoga Mat,Sports,1,2499,2499,Easypaisa,Delivered,Karachi
+ORD-1025,2024-10-20,Customer 25,Phone Case,Electronics,1,1299,1299,Easypaisa,Delivered,Karachi
+ORD-1026,2024-07-12,Customer 26,Scented Candle,Home,1,1199,1199,JazzCash,Cancelled,Islamabad
+ORD-1027,2024-07-22,Customer 27,Scented Candle,Home,1,1199,1199,COD,Pending,Peshawar
+ORD-1028,2024-10-21,Customer 28,Phone Case,Electronics,2,1299,2598,Easypaisa,Cancelled,Faisalabad
+ORD-1029,2024-08-25,Customer 29,Phone Case,Electronics,1,1299,1299,JazzCash,Delivered,Lahore
+ORD-1030,2024-10-12,Customer 30,Phone Case,Electronics,3,1299,3897,JazzCash,Pending,Faisalabad
+ORD-1031,2024-06-30,Customer 31,Coffee Mug,Home,2,899,1798,Credit Card,Delivered,Lahore
+ORD-1032,2024-10-07,Customer 32,Scented Candle,Home,2,1199,2398,COD,Delivered,Peshawar
+ORD-1033,2024-06-03,Customer 33,Wireless Earbuds,Electronics,2,2999,5998,Easypaisa,Delivered,Karachi
+ORD-1034,2024-07-21,Customer 34,Sneakers,Footwear,2,4999,9998,Credit Card,Pending,Quetta
+ORD-1035,2024-11-07,Customer 35,Yoga Mat,Sports,3,2499,7497,JazzCash,Delivered,Faisalabad
+ORD-1036,2024-07-22,Customer 36,Wireless Earbuds,Electronics,3,2999,8997,JazzCash,Delivered,Islamabad
+ORD-1037,2024-09-21,Customer 37,Wireless Earbuds,Electronics,2,2999,5998,JazzCash,Delivered,Islamabad
+ORD-1038,2024-10-08,Customer 38,Wireless Earbuds,Electronics,1,2999,2999,JazzCash,Cancelled,Karachi
+ORD-1039,2024-10-04,Customer 39,Wireless Earbuds,Electronics,1,2999,2999,Credit Card,Cancelled,Faisalabad
+ORD-1040,2024-11-07,Customer 40,Mens T-Shirt,Apparel,3,1499,4497,Easypaisa,Pending,Quetta
+ORD-1041,2024-10-23,Customer 41,Yoga Mat,Sports,1,2499,2499,Easypaisa,Cancelled,Faisalabad
+ORD-1042,2024-10-17,Customer 42,Mens T-Shirt,Apparel,3,1499,4497,Easypaisa,Delivered,Karachi
+ORD-1043,2024-08-09,Customer 43,Coffee Mug,Home,1,899,899,JazzCash,Cancelled,Islamabad
+ORD-1044,2024-11-11,Customer 44,Coffee Mug,Home,2,899,1798,Easypaisa,Delivered,Islamabad
+ORD-1045,2024-10-26,Customer 45,Scented Candle,Home,1,1199,1199,JazzCash,Pending,Karachi
+ORD-1046,2024-09-12,Customer 46,Wireless Earbuds,Electronics,1,2999,2999,COD,Delivered,Faisalabad
+ORD-1047,2024-11-25,Customer 47,Wireless Earbuds,Electronics,1,2999,2999,Easypaisa,Delivered,Islamabad
+ORD-1048,2024-10-22,Customer 48,Scented Candle,Home,2,1199,2398,Credit Card,Delivered,Faisalabad
+ORD-1049,2024-06-02,Customer 49,Coffee Mug,Home,1,899,899,COD,Pending,Multan
+ORD-1050,2024-06-09,Customer 50,Phone Case,Electronics,1,1299,1299,COD,Delivered,Islamabad
+ORD-1051,2024-10-26,Customer 51,Backpack,Apparel,1,3499,3499,JazzCash,Delivered,Faisalabad
+ORD-1052,2024-11-11,Customer 52,Yoga Mat,Sports,1,2499,2499,Credit Card,Pending,Peshawar
+ORD-1053,2024-09-07,Customer 53,Yoga Mat,Sports,3,2499,7497,COD,Cancelled,Lahore
+ORD-1054,2024-08-21,Customer 54,Backpack,Apparel,3,3499,10497,Credit Card,Delivered,Multan
+ORD-1055,2024-11-08,Customer 55,Wireless Earbuds,Electronics,2,2999,5998,JazzCash,Delivered,Peshawar
+ORD-1056,2024-10-06,Customer 56,Phone Case,Electronics,2,1299,2598,JazzCash,Delivered,Karachi
+ORD-1057,2024-11-23,Customer 57,Backpack,Apparel,1,3499,3499,JazzCash,Delivered,Islamabad
+ORD-1058,2024-11-05,Customer 58,Sneakers,Footwear,3,4999,14997,Credit Card,Cancelled,Islamabad
+ORD-1059,2024-06-27,Customer 59,Sneakers,Footwear,1,4999,4999,Credit Card,Cancelled,Peshawar
+ORD-1060,2024-09-19,Customer 60,Wireless Earbuds,Electronics,2,2999,5998,JazzCash,Delivered,Multan
+ORD-1061,2024-07-18,Customer 61,Coffee Mug,Home,2,899,1798,Easypaisa,Pending,Islamabad
+ORD-1062,2024-06-17,Customer 62,Backpack,Apparel,1,3499,3499,JazzCash,Pending,Peshawar
+ORD-1063,2024-09-25,Customer 63,Phone Case,Electronics,3,1299,3897,Credit Card,Delivered,Faisalabad
+ORD-1064,2024-06-24,Customer 64,Wireless Earbuds,Electronics,2,2999,5998,COD,Delivered,Peshawar
+ORD-1065,2024-09-24,Customer 65,Phone Case,Electronics,1,1299,1299,Easypaisa,Cancelled,Multan
+ORD-1066,2024-08-06,Customer 66,Backpack,Apparel,1,3499,3499,JazzCash,Delivered,Karachi
+ORD-1067,2024-07-28,Customer 67,Mens T-Shirt,Apparel,3,1499,4497,Easypaisa,Delivered,Quetta
+ORD-1068,2024-10-05,Customer 68,Sneakers,Footwear,1,4999,4999,Easypaisa,Delivered,Lahore
+ORD-1069,2024-09-12,Customer 69,Mens T-Shirt,Apparel,1,1499,1499,COD,Delivered,Islamabad
+ORD-1070,2024-11-17,Customer 70,Sneakers,Footwear,2,4999,9998,Easypaisa,Delivered,Islamabad
+ORD-1071,2024-10-30,Customer 71,Mens T-Shirt,Apparel,1,1499,1499,COD,Pending,Lahore
+ORD-1072,2024-07-06,Customer 72,Scented Candle,Home,1,1199,1199,COD,Pending,Karachi
+ORD-1073,2024-10-22,Customer 73,Backpack,Apparel,3,3499,10497,Credit Card,Pending,Islamabad
+ORD-1074,2024-09-06,Customer 74,Scented Candle,Home,2,1199,2398,Credit Card,Delivered,Karachi
+ORD-1075,2024-10-03,Customer 75,Mens T-Shirt,Apparel,3,1499,4497,Credit Card,Delivered,Lahore
+ORD-1076,2024-11-27,Customer 76,Sneakers,Footwear,1,4999,4999,Credit Card,Delivered,Faisalabad
+ORD-1077,2024-06-08,Customer 77,Phone Case,Electronics,1,1299,1299,COD,Pending,Faisalabad
+ORD-1078,2024-09-11,Customer 78,Coffee Mug,Home,2,899,1798,JazzCash,Cancelled,Faisalabad
+ORD-1079,2024-07-25,Customer 79,Sneakers,Footwear,1,4999,4999,JazzCash,Pending,Multan
+ORD-1080,2024-09-14,Customer 80,Mens T-Shirt,Apparel,2,1499,2998,Credit Card,Delivered,Karachi
+ORD-1081,2024-08-31,Customer 81,Backpack,Apparel,1,3499,3499,Credit Card,Delivered,Multan
+ORD-1082,2024-08-01,Customer 82,Mens T-Shirt,Apparel,2,1499,2998,Easypaisa,Delivered,Faisalabad
+ORD-1083,2024-07-28,Customer 83,Phone Case,Electronics,1,1299,1299,Credit Card,Delivered,Quetta
+ORD-1084,2024-09-26,Customer 84,Mens T-Shirt,Apparel,3,1499,4497,JazzCash,Delivered,Multan
+ORD-1085,2024-06-16,Customer 85,Phone Case,Electronics,1,1299,1299,COD,Cancelled,Peshawar
+ORD-1086,2024-08-15,Customer 86,Phone Case,Electronics,1,1299,1299,Credit Card,Delivered,Multan
+ORD-1087,2024-06-29,Customer 87,Sneakers,Footwear,1,4999,4999,Credit Card,Pending,Multan
+ORD-1088,2024-09-02,Customer 88,Scented Candle,Home,1,1199,1199,Credit Card,Pending,Multan
+ORD-1089,2024-11-23,Customer 89,Coffee Mug,Home,1,899,899,COD,Pending,Karachi
+ORD-1090,2024-09-09,Customer 90,Sneakers,Footwear,3,4999,14997,Easypaisa,Delivered,Lahore
+ORD-1091,2024-09-08,Customer 91,Sneakers,Footwear,2,4999,9998,Credit Card,Pending,Quetta
+ORD-1092,2024-10-25,Customer 92,Mens T-Shirt,Apparel,1,1499,1499,Credit Card,Delivered,Multan
+ORD-1093,2024-06-16,Customer 93,Phone Case,Electronics,2,1299,2598,JazzCash,Delivered,Karachi
+ORD-1094,2024-08-23,Customer 94,Coffee Mug,Home,1,899,899,JazzCash,Pending,Lahore
+ORD-1095,2024-07-03,Customer 95,Yoga Mat,Sports,2,2499,4998,COD,Cancelled,Islamabad
+ORD-1096,2024-06-12,Customer 96,Yoga Mat,Sports,2,2499,4998,Easypaisa,Delivered,Karachi
+ORD-1097,2024-07-13,Customer 97,Backpack,Apparel,1,3499,3499,JazzCash,Cancelled,Multan
+ORD-1098,2024-10-08,Customer 98,Coffee Mug,Home,3,899,2697,COD,Delivered,Lahore
+ORD-1099,2024-08-29,Customer 99,Yoga Mat,Sports,1,2499,2499,JazzCash,Cancelled,Lahore
+ORD-1100,2024-11-09,Customer 100,Mens T-Shirt,Apparel,1,1499,1499,Easypaisa,Delivered,Quetta
